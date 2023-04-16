@@ -16,7 +16,12 @@ module.exports = {
       lght: 300,
       xtrlght: 200
     },
-    extend: {},
+    extend: {
+      spacing:
+      {
+        '97': '24.5rem'
+      }
+    },
   },
   plugins: [],
 }
